@@ -33,7 +33,7 @@ LxGio India Pvt. Ltd.
 
 ## Resume
 
-[View My Resume](resume/Aradhana_Prasad_Resume.pdf)
+[View My Resume](resume/Aradhana Prasad Resume.pdf)
 
 ## Contact
 
