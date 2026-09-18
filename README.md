@@ -31,10 +31,6 @@ Business quotation web application with dynamic item management, automatic calcu
 **Frontend Developer Intern**  
 LxGio India Pvt. Ltd.
 
-## Resume
-
-[View My Resume](resume/Aradhana Prasad Resume.pdf)
-
 ## Contact
 
 - [GitHub](https://github.com/aradhana-prasad2244)
