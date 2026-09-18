@@ -2,6 +2,10 @@
 
 Welcome to my personal portfolio website.
 
+## Live Portfolio
+
+[View My Live Portfolio](https://aradhana-prasad-portfolio.netlify.app/)
+
 ## About Me
 
 I am a passionate Web Developer interested in building modern, responsive and user-friendly web applications. I have experience with frontend development and am developing my skills in MERN Stack technologies.
