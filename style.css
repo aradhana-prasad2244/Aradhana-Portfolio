@@ -621,3 +621,23 @@ form .btn2:hover {
 }
 
 
+/* 648px */
+@media (min-width: 40.5rem) and (max-width: 56.25rem) {             
+  .layer h3, p { 
+    font-size: 0.625rem;
+  }
+}
+
+/* 320px */
+@media (min-width: 20rem) and (max-width: 26.125rem) {             
+  .layer { 
+    font-size: 10px;
+  }
+}
+
+/* 557px - 600px */
+@media (min-width: 34.8125rem) and (max-width: 37.5rem) {             
+  .layer { 
+    font-size: 0.625rem;
+  }
+}
