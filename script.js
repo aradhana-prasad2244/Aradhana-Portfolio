@@ -77,7 +77,7 @@ tabLinks.forEach((tab) => {
 const form = document.querySelector("form");
 
 form.addEventListener("submit", (e) => {
-
+  e.target.reset();
   e.preventDefault();
 
   alert("Contact functionality will be added soon!");
